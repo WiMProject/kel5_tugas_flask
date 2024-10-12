@@ -1,4 +1,4 @@
-# My Flask App
+# Tugas Kelompok 5 Flask App
 
 ## Deskripsi
 Aplikasi web sederhana yang dikembangkan menggunakan Flask sebagai framework Python. Aplikasi ini menunjukkan fitur-fitur dasar Flask seperti routing, template rendering, dan penggunaan file statis.
